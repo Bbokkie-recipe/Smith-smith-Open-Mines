@@ -27,5 +27,6 @@ VR 게임 플랫폼의 특성과 매력을 극대화할 수 있는 대장장이 
 
 검의 재료로 쓰일 광석을 획득하기 위하여 광산에 가는 컨텐츠도 있습니다.
 ![캡처 (7)](https://user-images.githubusercontent.com/93479286/150171545-31b875b3-88fe-4d09-a8ed-d7cbfe6109d1.png)
+![캡처 (10)](https://user-images.githubusercontent.com/93479286/150171813-7108b898-94ab-473c-9464-1dcf7ea83690.png)
 ![캡처 (8)](https://user-images.githubusercontent.com/93479286/150171565-7b1344d4-ffed-4aa3-bd10-aa2e6d0ed343.png)
 ![캡처 (9)](https://user-images.githubusercontent.com/93479286/150171577-c0c8f3de-3181-49c5-883e-f01909fe21fd.png)
