@@ -1,5 +1,6 @@
 # Smith-smith-Open-Mines
-에셋 유료저작권으로 인하여 소스코드만 올립니다.
+에셋 유료저작권으로 인하여 소스코드만 올립니다.   
+유튜브 링크 : https://www.youtube.com/watch?v=RzkaWud8Sgg   
 
 VR 팀프로젝트 : 대장장이 체험형 시뮬레이션 게임 
 
